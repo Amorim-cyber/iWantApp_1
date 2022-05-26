@@ -10,4 +10,12 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
   </ItemGroup>
 
+  <ItemGroup>
+    <EditorConfigFiles Remove="C:\Users\lucca\OneDrive\Documentos\outros\pontoNet\iWantApp_Proj1\src\.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="C:\Users\lucca\OneDrive\Documentos\outros\pontoNet\iWantApp_Proj1\src\.editorconfig" />
+  </ItemGroup>
+
 </Project>
