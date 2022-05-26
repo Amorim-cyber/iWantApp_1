@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# iWantApp_1
-Projeto em C# do curso .NET 6 WEB API - Do zero ao avançado
-=======
 <h1>iWantApp_1 V1.0</h1>
 
 Projeto em C# do curso .NET 6 WEB API - Do zero ao avançado
@@ -25,5 +21,3 @@ Acessando `https://localhost:3001/swagger/index.html` o usuário pode incluir, a
 * .NET Core 6
 * Docker / Sql Server Image
 * Visual Studios 2022
-
->>>>>>> 1_Primeiros_Passos
