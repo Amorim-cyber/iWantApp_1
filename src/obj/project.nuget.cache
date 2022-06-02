@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "oFZB5Z4htR3xVvYODn519GuPx8BmhvhMZAofVS6eyhCVv4yVuaYl6nnjYi0VY+UJmifSjt7aCQegjkSJ2qwRaw==",
+  "dgSpecHash": "VbOq5pVTZv4YgKMsMGlcDqBD33xk/9yPBdjbW8d+p0aaLu6cgQF9KmleBwRqU03k1scpEzi5f3TEm2pDIR7scA==",
   "success": true,
   "projectFilePath": "C:\\Users\\lucca\\OneDrive\\Documentos\\outros\\pontoNet\\iWantApp_Proj1\\src\\iWantApp_Proj1.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\lucca\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\lucca\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512",
     "C:\\Users\\lucca\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\lucca\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.5\\microsoft.aspnetcore.cryptography.internal.6.0.5.nupkg.sha512",

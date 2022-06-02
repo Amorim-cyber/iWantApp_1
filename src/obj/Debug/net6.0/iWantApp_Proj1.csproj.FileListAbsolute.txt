@@ -65,3 +65,4 @@ C:\Users\lucca\OneDrive\Documentos\outros\pontoNet\iWantApp_Proj1\src\bin\Debug\
 C:\Users\lucca\OneDrive\Documentos\outros\pontoNet\iWantApp_Proj1\src\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 C:\Users\lucca\OneDrive\Documentos\outros\pontoNet\iWantApp_Proj1\src\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
 C:\Users\lucca\OneDrive\Documentos\outros\pontoNet\iWantApp_Proj1\src\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\lucca\OneDrive\Documentos\outros\pontoNet\iWantApp_Proj1\src\bin\Debug\net6.0\Dapper.dll
